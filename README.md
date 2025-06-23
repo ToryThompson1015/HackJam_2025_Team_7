@@ -1,7 +1,7 @@
 # 🚀 HackJam 2025 – Team 07
 
 Welcome to your team's official HackJam 2025 project repository! This is where you'll plan, build, and deliver your alumni engagement platform prototype.
-
+ 
 ---
 
 ## 📌 Challenge Overview
